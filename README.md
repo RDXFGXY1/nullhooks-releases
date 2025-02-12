@@ -1,6 +1,6 @@
 # NullHooks 
 
-![NullHooks Banner](./assets/banner.png)  
+![NullHooks Banner](releases/assets/banner.png)  
 *Cybernetic Webhook Management System for the Modern Era*
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
