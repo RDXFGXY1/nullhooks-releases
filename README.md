@@ -1,5 +1,3 @@
-# nullhooks-releases
-
 # NullHooks 🔗⚡
 
 ![NullHooks Banner](./assets/banner.png)  
