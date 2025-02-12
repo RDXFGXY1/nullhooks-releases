@@ -1,4 +1,4 @@
-# NullHooks 🔗⚡
+# NullHooks 
 
 ![NullHooks Banner](./assets/banner.png)  
 *Cybernetic Webhook Management System for the Modern Era*
@@ -111,8 +111,8 @@ Distributed under MIT License. See `LICENSE` for details.
 ## 📬 Contact
 
 **Development Team**  
-- [@K Y R O S !](mailto:kyros@darkops-hq.web.app)  
-- [@K Y R A S !](mailto:kyras@darkops-hq.web.app)
+- [@K Y R O S !](httsp://discord.gg/Cav4uhqJf8)  
+- [@K Y R A S !](httsp://discord.gg/Cav4uhqJf8)
 
 Project Link: [https://github.com/yourusername/nullhooks](https://github.com/yourusername/nullhooks)
 
